@@ -1,6 +1,6 @@
 # Todo-list-js
 
-https://rafalsiepak.github.io/todolistjs
+https://rafalsiepak.github.io/todo-list-js/
 
 ### Website is using features from the following technologies:
 
